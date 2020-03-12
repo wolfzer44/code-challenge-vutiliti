@@ -1,7 +1,7 @@
 {
   "name": "vutiliti-front",
   "version": "0.1.0",
-  "hompage": "http://wolfzer44.github.io/code-challenge-vutiliti",
+  "homepage": "http://wolfzer44.github.io/code-challenge-vutiliti",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
