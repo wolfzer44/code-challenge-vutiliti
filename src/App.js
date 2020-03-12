@@ -1,8 +1,8 @@
 import React from "react"
-import LoginPage from "./pages/login/LoginPage"
+import Routes from "./routes"
 import "./styles.scss"
 function App() {
-  return <LoginPage></LoginPage>
+  return <Routes />
 }
 
 export default App
