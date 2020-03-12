@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/code-challenge-vutiliti/static/css/main.f232792f.chunk.css",
-    "main.js": "/code-challenge-vutiliti/static/js/main.2061aeae.chunk.js",
-    "main.js.map": "/code-challenge-vutiliti/static/js/main.2061aeae.chunk.js.map",
+    "main.js": "/code-challenge-vutiliti/static/js/main.b0b29099.chunk.js",
+    "main.js.map": "/code-challenge-vutiliti/static/js/main.b0b29099.chunk.js.map",
     "runtime-main.js": "/code-challenge-vutiliti/static/js/runtime-main.9919703b.js",
     "runtime-main.js.map": "/code-challenge-vutiliti/static/js/runtime-main.9919703b.js.map",
     "static/css/2.5dbdccff.chunk.css": "/code-challenge-vutiliti/static/css/2.5dbdccff.chunk.css",
-    "static/js/2.9e9f22b9.chunk.js": "/code-challenge-vutiliti/static/js/2.9e9f22b9.chunk.js",
-    "static/js/2.9e9f22b9.chunk.js.map": "/code-challenge-vutiliti/static/js/2.9e9f22b9.chunk.js.map",
+    "static/js/2.b8a6ef7a.chunk.js": "/code-challenge-vutiliti/static/js/2.b8a6ef7a.chunk.js",
+    "static/js/2.b8a6ef7a.chunk.js.map": "/code-challenge-vutiliti/static/js/2.b8a6ef7a.chunk.js.map",
     "index.html": "/code-challenge-vutiliti/index.html",
-    "precache-manifest.0f24d7430fd4debb31fae0d6a1442873.js": "/code-challenge-vutiliti/precache-manifest.0f24d7430fd4debb31fae0d6a1442873.js",
+    "precache-manifest.92b3c512b71877586b46a0c988c3dab5.js": "/code-challenge-vutiliti/precache-manifest.92b3c512b71877586b46a0c988c3dab5.js",
     "service-worker.js": "/code-challenge-vutiliti/service-worker.js",
     "static/css/2.5dbdccff.chunk.css.map": "/code-challenge-vutiliti/static/css/2.5dbdccff.chunk.css.map",
     "static/css/main.f232792f.chunk.css.map": "/code-challenge-vutiliti/static/css/main.f232792f.chunk.css.map",
-    "static/js/2.9e9f22b9.chunk.js.LICENSE.txt": "/code-challenge-vutiliti/static/js/2.9e9f22b9.chunk.js.LICENSE.txt",
+    "static/js/2.b8a6ef7a.chunk.js.LICENSE.txt": "/code-challenge-vutiliti/static/js/2.b8a6ef7a.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/code-challenge-vutiliti/static/media/bg.d66e82ed.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9919703b.js",
     "static/css/2.5dbdccff.chunk.css",
-    "static/js/2.9e9f22b9.chunk.js",
+    "static/js/2.b8a6ef7a.chunk.js",
     "static/css/main.f232792f.chunk.css",
-    "static/js/main.2061aeae.chunk.js"
+    "static/js/main.b0b29099.chunk.js"
   ]
 }
