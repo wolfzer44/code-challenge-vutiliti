@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c69de22113c992ef300dfa196ae7522",
+    "revision": "5bc75f19ede88c698c6d77138e1c92da",
     "url": "/code-challenge-vutiliti/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/code-challenge-vutiliti/static/css/2.5dbdccff.chunk.css"
   },
   {
-    "revision": "dfea1131bb5e3b159cc0",
+    "revision": "c417af7c25b884d3e4ea",
     "url": "/code-challenge-vutiliti/static/css/main.f232792f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/code-challenge-vutiliti/static/js/2.9e9f22b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dfea1131bb5e3b159cc0",
-    "url": "/code-challenge-vutiliti/static/js/main.3dab58ac.chunk.js"
+    "revision": "c417af7c25b884d3e4ea",
+    "url": "/code-challenge-vutiliti/static/js/main.2061aeae.chunk.js"
   },
   {
     "revision": "6cc13400b2c258ea45c9",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/code-challenge-vutiliti/precache-manifest.42eac80fed49aa0150d3144db7798c7c.js"
+  "/code-challenge-vutiliti/precache-manifest.0f24d7430fd4debb31fae0d6a1442873.js"
 );
 
 self.addEventListener('message', (event) => {
