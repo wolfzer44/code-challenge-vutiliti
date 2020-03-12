@@ -1,7 +1,7 @@
 import axios from "axios"
 
 export const api = axios.create({
-  baseURL: "http://localhost:3333/",
+  baseURL: "https://codechallenge-vutiliti-backend.herokuapp.com/",
   headers: {
     "content-type": "application/json",
     token: localStorage.token,
